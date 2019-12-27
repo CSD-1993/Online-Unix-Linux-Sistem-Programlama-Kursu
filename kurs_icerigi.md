@@ -235,7 +235,7 @@
 + Linux çekirdeğinin protokol mimarisi `(Linux TCP/IP stack)`
 + `Network sniffer` programlar ve pcap kütüphanesinin kullanımı
 
-## ProcSysDosya Sistemleri
+## Proc ve Sys Dosya Sistemleri
 
 + Proc ve Sys dosya sistemlerinin tanıtımı
 + Proc ve Sys dosya sistemlerinin girişlerinin anlamı
