@@ -4,7 +4,7 @@
 + Kursun `23 Ocak 2020` tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi `162` saattir. Dersler `Salı, Çarşamba ve Perşembe` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
++ Toplam kurs süresi `162` saattir. Dersler `Salı, Perşembe ve Cuma` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
 + Kursun toplam ücreti `KDV dahil 3.200 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) `%10` indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
