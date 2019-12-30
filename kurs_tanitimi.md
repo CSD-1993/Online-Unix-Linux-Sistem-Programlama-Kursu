@@ -38,7 +38,7 @@ Eğitim Süresi `162` Saattir.
 
 ## Ders Saatleri
 
-Dersler hafta içi `Salı – Prrşembe – Cuma` günleri saat `19.30 – 22.30` saatleri arasında `3`’er saat olarak yapılacaktır.
+Dersler hafta içi `Salı – Perşembe – Cuma` günleri saat `19.30 – 22.30` saatleri arasında `3`’er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
 Programın toplam ücreti `KDV dahil 3.200 TL`‘dir. Öğrencilere `(öğrencilik durumunu belgelemeleri kaydıyla)` %10 indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse `2` taksitte ödeyebilirler.
