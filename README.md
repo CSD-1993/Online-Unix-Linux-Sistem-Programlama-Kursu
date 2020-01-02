@@ -1,6 +1,6 @@
 ## Online Unix/Linux Sistem Programlama Kursu 
 
-+ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından düzenlenmektedir.
++ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından "Sistem Bilgisayar" işbirliği ile düzenlenmektedir.
 + Kursun `23 Ocak 2020` tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
