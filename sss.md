@@ -35,7 +35,7 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
 ## Yeterli Derecede `C` bilmiyorum. Kursa katılmam uygun olur mu?
-Eğer `C Programalam Dilini` yeterli derecede bilmiyorsanız yine de kursa katılabilirsiniz. Ancak bu durum kurstan alacağınız verimi `%40` oranında düşürebilecektir.
+Eğer `C Programlama Dilini` yeterli derecede bilmiyorsanız yine de kursa katılabilirsiniz. Ancak bu durum kurstan alacağınız verimi `%40` oranında düşürebilecektir.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara `C ve Sistem Programcıları Derneği` tarafından düzenlenen bitirme sertifikası verilecektir.
