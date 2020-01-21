@@ -104,7 +104,7 @@
 + Çevre değişkenlerinin Linux çekirdeği tarafından organize edilme biçimleri
 + Çevre değişkenlerinin alt proseslere aktarılması
 
-## Prosesler Arası Haberleşmeler
+## Prosesler Arası Haberleşmeler (Interprocess Communications)
 
 + Prosesler arası haberleşmenin anlamı ve önemi
 + İsimli ve isimsiz boru haberleşmeleri `(named/unnamed pipes)`
