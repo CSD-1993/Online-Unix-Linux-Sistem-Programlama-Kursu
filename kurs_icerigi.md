@@ -17,7 +17,7 @@
 + Kavramsal olarak POSIX fonksiyonları, Standart C Fonksiyonları ve işletim sisteminin sistem fonksiyonları
 + POSIX fonksiyonlarında başarısızlık durumunun tespit edilmesi ve eele alınması
 
-## UNIX/Linux Sistemlerinde Login İşlemleri
+## Login İşlemleri
 
 + Sisteme giriş ve login işlemi
 + Kullanıcı ve grup kavramları
@@ -25,7 +25,7 @@
 + Login sırasında yapılan kontroller
 + Linux dizin yapısının incelenmesi `(/bin dizini, /lib dizini, /usr dizini, /mnt dizini, …)`
 
-## UNIX/Linux Sistemlerinde Temel Dosya İşlemleri
+## Temel Dosya İşlemleri
 
 + Proseslerin kullanıcı ve grup id’leri
 + Proseslerin ek grup id’leri `(supplemantary group ids)`
