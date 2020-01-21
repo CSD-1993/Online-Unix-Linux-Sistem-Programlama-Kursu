@@ -3,10 +3,11 @@
 ## Temel Kavramlar 
 
 + Kurs için gereken temel kavramların gözden geçirilmesi
++ Kaynak yöneticisi olarak işletim sistemleri
++ İşletim sistemlerinin tarihsel gelişimi
 + UNIX türevi sistemlerin tarihsel gelişimi
 + Özgür Yazılım ve Açık Kaynak Kod akımları
 + UNIX türevi sistemlere yönelik standartlar 
-+ Kaynak yöneticisi olarak işletim sistemleri
 + Dağıtım `(distribution)` kavramı.
 + Belli başlı Linux dağıtımları ve bu dağıtımlar arasındaki ilişkiler
 + Proses kavramı 
@@ -241,6 +242,12 @@
 + Proc ve Sys dosya sistemlerinin girişlerinin anlamı
 + Proc ve Sys dosya sistemlerinin okunması ve yazılması
 + Proc ve Sys Dosya sistemlerinin Linux çekirdeği tarafından gerçekleştirimi
+
+## X Window Sistemleri ve GUI Çalışma Modeli
+
++ XWindow Sistemlerinin Genel Yapısı ve GUI çalışma modeli
++ XWindow sistemlerinde aşağı seviyeli GUI işlemlerinin temelleri
++ XWindow sistemleri üzerine kurulu olan yüksek seviyeli GUI kütüphanelerine ilişkin temel bilgiler
 
 ## Object ve Executable Dosya Formatları
 
