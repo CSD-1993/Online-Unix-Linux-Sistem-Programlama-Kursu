@@ -17,7 +17,7 @@
 + Kavramsal olarak POSIX fonksiyonları, Standart C Fonksiyonları ve işletim sisteminin sistem fonksiyonları
 + POSIX fonksiyonlarında başarısızlık durumunun tespit edilmesi ve eele alınması
 
-## UNIX Türevi Sistemlerde Login İşlemleri
+## UNIX/Linux Sistemlerinde Login İşlemleri
 
 + Sisteme giriş ve login işlemi
 + Kullanıcı ve grup kavramları
@@ -78,7 +78,7 @@
 + 32 bit ve 64 bit Linux proseslerinin sanal belleğe yüklenmesi
 + Linux sistemlerinde proseslerin bellek alanlarının izole edilmesi
 
-## UNIX/Linux Sisteminde Proseslerin Yaratılması ve Proseslerle İlgili Temel İşlemler
+## Proseslerin Yaratılması ve Proseslerle İlgili Temel İşlemler
 
 + Üst `(parent)` ve alt proses `(child)` kavramları
 + Proseslerin id değerleri
@@ -185,14 +185,14 @@
 + Proses yeteneklerinin listesi ve anlamı
 + Proses yeteneklerinin set edilmesi ve üst prosesten alt prosese aktarılması
 
-## Linux Sistemlerinde Tarih ve Zaman İşlemleri 
+## Sistemlerinde Tarih ve Zaman İşlemleri 
 
 + Tarih ve zaman işlemleri yapan standart C fonksiyonları ve POSIX fonksiyonları
 + Bölgesel ayarlar ve locale işlemleri
 + Linux çekirdeğinde zamanlama işlemleri 
 + Sistem zamanının güncellenmesi
 
-## Linux Sistemlerinde Statik ve Dinamik (Shared) Kütüphaneler
+## Sistemlerinde Statik ve Dinamik (Shared) Kütüphaneler
 
 + Kütüphane `(library)` kavramı
 + Statik ve dinamik kütüphaneler arasındaki farklılıklar
@@ -259,7 +259,7 @@
 + Relocation işlemi 
 + Flat binary dosyaların oluşturulması
 
-## Linux Dosya Sisteminde Disk Organizasyonu
+## Linux'ta Kullanılan Dosya Sistemlerinin Disk Organizasyonları
 
 + Linux sistemlerinin kullandığı dosya sistemlerinin tanıtımı
 + Linux'ta disk sektörlerinin okunması ve yazılması
